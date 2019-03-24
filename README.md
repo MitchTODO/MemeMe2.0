@@ -6,7 +6,7 @@ IOS app allows for memes to be created and edited.
 
 ## Storyboard
 
-Story board consists fo three views (Not including the navigational controller).
+Story board consists of three views (Not including the navigational controller).
 
 |       ViewControllersName.swift       | main.Storyboard | readme reference |
 |----------------------------------------|----------------|--------------|
